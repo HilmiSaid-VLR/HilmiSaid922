@@ -3,6 +3,8 @@
   <i>Yazılım ve eğitim alanlarında çalışan, oyun tasarımı ve hikâye geliştirme üzerine üretim yapan bir öğretmen/yazılımcı. Teknik altyapı ve hobilerimi pedagojik yaklaşımla birleştirerek öğrenmeyi oyunlaştırma üzerine projeler geliştirmekteyim. 
     Spor yapmak, film izlemek, resim çizmek ve oyun oynamaktan zevk alırım. Üretken ve girişken yapım sebebiyle hobilerimi sahiplenir ve onları hayatımın bir parçası yaparım. Yazılım üzerine eğitimler planlar ve bunları insanların hizmetlerine sunarım. Eğitim planı hazırlama, sunma konusunda deneyimliyim. Ekip içerisinde çalışmaya ve ekip lideri olarak hizmet vermeye alışığım.Eğitim teknolojileri, web geliştirme ve yapay zekâ uygulamaları üzerinde proje deneyimi.
     Uzun vadeli planım ve hayatta çaba harcamamı sağlayan unsur, birgün kendi planladığım, içerisinde kullanılacak tüm içerik ve teknik sistemlerinin(örnekler dahil) kendim yaptığım bir eğitim programı ile çevremdeki veya bir şekilde ulaşabileceğim tüm insanların hem yazılıma hem hayata bakış açısına dokunabilecek olmaktır.  </i> </p>
+<br>
+<br>
 
 
 ### 📆 Geçmişim  
@@ -16,6 +18,8 @@
 <p>- İşletim sistemleri üzerine Lisans düzeyi ders içeriği ve anlatımı hazırladım</p>
 
 
+<br>
+<br>
 
 ### Sahip Olduğum Sertifikalar
 
@@ -24,11 +28,19 @@
 <p>• Google: Foundations of cybersecurity (https://coursera.org/verify/YZEQFWCWUQKS)</p>
 <p>• Google: Foundations of Project Management (https://coursera.org/verify/AM5BL4W3J69S)</p>
 <p>• IBM: Introduction to Project Management (https://coursera.org/verify/ABSWULLS4N8Y)</p>
+<br>
+<br>
 
 
 ### Teknik Yetkinlikler
-  ### Yazılım Dilleri
+  <h4>Yazılım Dilleri </h4>
+  <p> Python, c#</p>
   ### Oyun geliştirme Araçları
+<br>
+<br>
 
 ### Projeler
+<br>
+<br>
+
 ### Diller
